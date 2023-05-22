@@ -1,0 +1,28 @@
+.main-block{
+    width: 400px;
+    height: 445px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    
+}
+
+.block{
+    width: 300px;
+    height: 345px;
+    background-color: white;
+    margin-left: 35px;
+    border-radius: 20px;}
+
+    .text1{text-align: center; }
+
+    .text2{text-align: center;}
+
+
+    .text3{text-align: center;}
+
+    .text4{ text-align: center;}
+
+    .text5{ text-align: center;}
+    
